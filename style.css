@@ -1,3 +1,19 @@
-*{
-    background-color: blue;
+body {
+    background-color: navy;
 }
+
+.whole-box {
+    background-color: skyblue;
+    width: 75%;
+    height: auto;
+    margin: auto;
+    padding: 15px;
+    margin-top: 100px;
+}
+
+h1 {
+    text-align: center;
+    padding: 5px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
